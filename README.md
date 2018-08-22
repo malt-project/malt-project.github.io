@@ -1,2 +1,2 @@
-# malt-project.github.io
+# malt-project.github.io website
 The Malt website
